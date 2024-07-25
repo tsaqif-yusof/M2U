@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>edd1eab7-aaef-41f0-85a0-1b674841012a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Header---collapsed---2aJyH > button.Header---navbar-toggle---2MKnR > div.Header---profile---20pic > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollToTransactions']/div/div/div/div/div/div/button/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>661a4348-24d1-4ee7-88b1-9e96a32065a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/icons/menu_white.svg</value>
+      <webElementGuid>c7cbfe29-de50-4ba6-99b4-77a8bda500fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[@class=&quot;Transactions---container---3sqaa&quot;]/div[1]/div[@class=&quot;Header---withSide---3Mnyh Header---header_container---3_mC-&quot;]/div[1]/div[@class=&quot;hidden-sm hidden-xs hidden-md&quot;]/div[@class=&quot;Header---collapsed---2aJyH&quot;]/button[@class=&quot;Header---navbar-toggle---2MKnR&quot;]/div[@class=&quot;Header---profile---20pic&quot;]/img[1]</value>
+      <webElementGuid>c616c8f7-3068-44b0-853f-9ed32c8c0d2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollToTransactions']/div/div/div/div/div/div/button/div/img</value>
+      <webElementGuid>40bf9a5a-10a3-448e-b2e3-5e79960dce06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/button/div/img</value>
+      <webElementGuid>b881b1fc-320b-4a79-9dc0-a527174e117c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/icons/menu_white.svg']</value>
+      <webElementGuid>e3c32c2e-ad39-4d81-8083-d96baa5922ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
