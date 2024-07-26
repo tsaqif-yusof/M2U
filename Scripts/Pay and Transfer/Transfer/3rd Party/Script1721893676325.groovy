@@ -20,7 +20,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/a_PAY  TRANSFER'))
 
-WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/span_x'))
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/button_x'))
 
 WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/div_TRANSFER'))
 
@@ -28,16 +30,35 @@ WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank 
 
 WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/span_Other Accounts ( Maybank and other banks )'))
 
-WebUI.setText(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/input_ASNB Accounts_PayFromToContainer---pa_1bae3d'), 
-    'bank islam')
-
-WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/div_BANK ISLAM MALAYSIA'))
-
-WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/span_Transfer To BANK ISLAM MALAYSIA_TransferModal---close---1-8Bs'))
+'Bank Islam'
+//WebUI.setText(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/input_ASNB Accounts_PayFromToContainer---pa_1bae3d'), 'bank islam')
+//WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/div_BANK ISLAM MALAYSIA'))
+//WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/span_Transfer To BANK ISLAM MALAYSIA_TransferModal---close---1-8Bs'))
 
 WebUI.delay(2)
 
-//WebUI.sendKeys(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/input_ASNB Accounts_PayFromToContainer---pa_1bae3d'), Keys.chord(Keys.ENTER))
+'Maybank'
+WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/input_ASNB Accounts_PayFromToContainer---pa_1bae3d'))
 
-//WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/div_BANK ISLAM MALAYSIA'))
+WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/div_Maybank  Maybank Islamic'))
+
+WebUI.setText(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/input_Account number_toAccount'), findTestData('Test Data').getValue(8, 1))
+
+WebUI.setText(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/input_Transfer Amount_amount'), findTestData('Test Data').getValue(9, 1))
+
+WebUI.setText(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/input_Recipient Reference_transferPurpose'), findTestData('Test Data').getValue(7, 1))
+
+WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/button_TRANSFER'))
+
+WebUI.callTestCase(findTestCase('Auto_framework_mobile'), [:], FailureHandling.CONTINUE_ON_FAILURE)
+
+//WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/button_REQUEST'))
+
+//WebUI.delay(15)
+
+//WebUI.setEncryptedText(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/input_click here_OneTimePassword---pair-inp_868bc1'), 'URLxZCWNH10=')
+
+//WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/button_CONFIRM'))
+
+//WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/span_Transfer ToASAHI514013127536RM 0.01'))
 

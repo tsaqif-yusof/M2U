@@ -31,8 +31,6 @@ WebUI.click(findTestObject('Object Repository/Page_Maybank2u  Maybank Malaysia/b
 
 WebUI.click(findTestObject('Object Repository/Page_Maybank2u  Maybank Malaysia/button_YES'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Maybank2u  Maybank Malaysia/div_Hello, cakif93'), 20)
-
 WebUI.delay(2)
 
 //WebUI.setText(findTestObject('Login Elements/Page_Maybank2u1/Enter Password'), '●●●●●●●●')

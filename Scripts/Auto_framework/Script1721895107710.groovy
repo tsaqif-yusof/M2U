@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-String Prod = findTestData('Test Data').getValue(4, 1)
+String Prod = findTestData('Test Data').getValue(4, 2)
 
 println(Prod)
 
@@ -34,9 +34,9 @@ println(transaction)
 if (transaction == '1') {
     WebUI.callTestCase(findTestCase('Pay and Transfer/Transfer/3rd Party'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 } else if (transaction == '2') {
-	WebUI.callTestCase(findTestCase('Pay and Transfer/Transfer/3rd Party'), [:], FailureHandling.CONTINUE_ON_FAILURE)
+	WebUI.callTestCase(findTestCase('Pay and Transfer/Transfer/IBFT'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 } else {
-	WebUI.callTestCase(findTestCase('Pay and Transfer/Transfer/3rd Party'), [:], FailureHandling.CONTINUE_ON_FAILURE)
+	WebUI.callTestCase(findTestCase('Pay and Transfer/Transfer/IBG'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 }
 
 WebUI.callTestCase(findTestCase('Login and Logout/Logout'), [:], FailureHandling.CONTINUE_ON_FAILURE)

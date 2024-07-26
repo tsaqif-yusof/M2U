@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TAC</name>
+   <tag></tag>
+   <elementGuidId>2fd929de-fef5-498a-8990-aefb54be7b4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > a > div.Confirm---selectedItem---2S63C</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[3]/div/div/div/div/div[2]/div/div/div[2]/div/div[2]/div/div/ul/li[3]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8f57b474-1805-45cc-92c1-b97a65607fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Confirm---selectedItem---2S63C</value>
+      <webElementGuid>cfed1e21-a397-4dee-9a6e-fc581434d645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TAC</value>
+      <webElementGuid>ef66fb2f-e527-4f3d-90ac-31580ced8da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[@class=&quot;Transactions---container---3sqaa&quot;]/div[@class=&quot;Transactions---content---2P7lC&quot;]/div[@class=&quot;Transactions---withSide---2taIP container-fluid Transactions---summaryContainer---1rNvj undefined&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;Transactions---stickyConfirmation---2aISx&quot;]/div[1]/div[@class=&quot;Confirm---confirm-wrapper---2INeM Confirm---slide---3C7mA put-in-modal&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-xs-12&quot;]/div[@class=&quot;Confirm---confirm-right-wrapper---1xhcG&quot;]/div[1]/div[@class=&quot;col-sm-4 col-xs-12&quot;]/div[@class=&quot;Confirm---secure2uSection---3A7pq&quot;]/div[@class=&quot;hidden-xs&quot;]/div[@class=&quot;RenderDesktopDropdown---container---1CES2 Confirm---containerClass---xTcuc&quot;]/div[@class=&quot;dropdown open btn-group&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[3]/a[1]/div[@class=&quot;Confirm---selectedItem---2S63C&quot;]</value>
+      <webElementGuid>057e393e-e9c0-4acb-a757-f789664c7e6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[3]/div/div/div/div/div[2]/div/div/div[2]/div/div[2]/div/div/ul/li[3]/a/div</value>
+      <webElementGuid>5e9343f0-80a9-49fe-a211-95e281b17a6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secure TAC'])[2]/following::div[1]</value>
+      <webElementGuid>9636c840-e31b-4cc4-a9e8-46aec98b9060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secure Verification'])[4]/following::div[2]</value>
+      <webElementGuid>41d9d49c-684b-4bf1-a818-5d035ec27c09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REQUEST'])[2]/preceding::div[1]</value>
+      <webElementGuid>027c72c9-c7b7-4a84-acce-7508c31870cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li[3]/a/div</value>
+      <webElementGuid>4f9e3150-8945-4a87-b8da-68e9547fb6c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TAC' or . = 'TAC')]</value>
+      <webElementGuid>bd49a068-91c8-4756-b915-a6c75137b621</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

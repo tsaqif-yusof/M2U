@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='TNB'])[1]/following::span[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>cea0df88-fd4c-444f-9d9d-0ce94ba25218</webElementGuid>
+      <webElementGuid>b2e194f1-db50-4643-abd0-bf9372d084cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>29cabdd9-fe93-4faa-b4c8-93fc56f49848</webElementGuid>
+      <webElementGuid>bf5f9286-efa2-42c4-87a7-22aa64e75b68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,18 +39,50 @@
       <name>text</name>
       <type>Main</type>
       <value>x</value>
-      <webElementGuid>890872d5-72ac-4465-b2f0-7ffb25e4aecf</webElementGuid>
+      <webElementGuid>bc6a397f-754f-44b6-8305-341eb47e5a01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[3]/div[@class=&quot;fade PromotionalModal---container---1oaNH AnnouncementModal---announcementModal---3YygH in modal&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;promotional-header&quot;]/button[@class=&quot;promotional-close&quot;]/span[1]</value>
-      <webElementGuid>e184863d-ec77-46ec-ae1f-4e3a2e7d5e6d</webElementGuid>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[4]/div[@class=&quot;fade PromotionalModal---container---1oaNH AnnouncementModal---announcementModal---3YygH in modal&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;promotional-header&quot;]/button[@class=&quot;promotional-close&quot;]/span[1]</value>
+      <webElementGuid>92dbf9f3-55ec-41a2-be0b-460260779a1c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::span[1]</value>
+      <webElementGuid>8d47cc51-cbc7-46b8-9f4f-895a736fd6c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='x']/parent::*</value>
+      <webElementGuid>f536ba88-9789-4c7c-a96f-a404ecfaf76e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div/button/span</value>
+      <webElementGuid>15faafba-e4c2-40f8-b9f8-a1c1a87e6bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'x' or . = 'x')]</value>
+      <webElementGuid>b7454e2d-6dbb-4c1a-94bf-1e7a981ec71b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
@@ -68,25 +100,9 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='x']/parent::*</value>
-      <webElementGuid>5499bde6-c826-4667-97db-071cf817d93e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/div/div/button/span</value>
       <webElementGuid>496d95c1-10ee-464d-80fb-335ad21ec58b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'x' or . = 'x')]</value>
-      <webElementGuid>7b321518-4250-493e-ad7f-90e5812a0ac6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
