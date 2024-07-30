@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DuitNow Transfer</name>
+   <tag></tag>
+   <elementGuidId>67d3ea4e-dea6-465e-b1bd-a9eaa7d6043f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#transferType > span.RenderDesktopDropdown---clsTitle---Eigoz > div.TransferModal---selectedItem---2x2B_</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='transferType']/span/div)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>76fcc32d-5195-4d4f-b2dc-c7f98b0e0282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TransferModal---selectedItem---2x2B_</value>
+      <webElementGuid>bb54620e-4f20-436a-963d-4d558052eb02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DuitNow Transfer</value>
+      <webElementGuid>615f2b19-e8a2-4d86-a0fb-a444b775fb18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[1]/div[@class=&quot;GeneralModal---container---1MI-M undefined&quot;]/div[@class=&quot;GeneralModal---modal---2RPFr TransferModal---container---2JZnN TransferModal---withNote---23xqo&quot;]/div[@class=&quot;modal-dialog GeneralModal---animated---2vfJQ GeneralModal---slideInDown---3of__&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;undefined modal-body&quot;]/div[@class=&quot;TransferModal---whitebg---c-ZSZ&quot;]/div[@class=&quot;TransferModal---recipientWrapper---1B7n3&quot;]/div[4]/div[@class=&quot;row TransferModal---inputPair---2v4pK&quot;]/div[@class=&quot;col-sm-7&quot;]/div[@class=&quot;hidden-xs&quot;]/div[@class=&quot;RenderDesktopDropdown---container---1CES2 TransferModal---containerClass---3Gy8x&quot;]/div[@class=&quot;dropdown btn-group&quot;]/button[@id=&quot;transferType&quot;]/span[@class=&quot;RenderDesktopDropdown---clsTitle---Eigoz&quot;]/div[@class=&quot;TransferModal---selectedItem---2x2B_&quot;]</value>
+      <webElementGuid>9cf1c5b0-2d4a-4f54-8324-514a4fbaffe3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//button[@id='transferType']/span/div)[2]</value>
+      <webElementGuid>21d3017d-598c-42f3-a4cf-d7adb4b929ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DuitNow Transfer'])[1]/following::div[6]</value>
+      <webElementGuid>10d7b82b-eb11-400d-8436-565d039be4aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Mode'])[1]/following::div[11]</value>
+      <webElementGuid>3182e574-5932-47e1-aeff-71c029a1540c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DuitNow Transfer'])[4]/preceding::div[1]</value>
+      <webElementGuid>f5436ad1-a4e7-4c01-ba34-2304fd6470e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div[2]/div/div/button/span/div</value>
+      <webElementGuid>de7d6bf8-88f2-44f9-aa8d-4f2bd6e03656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DuitNow Transfer' or . = 'DuitNow Transfer')]</value>
+      <webElementGuid>5a90a953-098b-4ab6-993f-cebe2fe4404b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

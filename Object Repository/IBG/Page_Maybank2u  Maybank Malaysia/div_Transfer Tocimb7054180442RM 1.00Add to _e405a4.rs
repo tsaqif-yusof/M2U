@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Transfer Tocimb7054180442RM 1.00Add to _e405a4</name>
+   <tag></tag>
+   <elementGuidId>e516491a-2119-4a53-99eb-5b75ebe85025</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.TransactionSummary---confirmed---3HazR.panel.panel-default > div.panel-body > div.TransactionSummary---row---1zHCL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[2]/div/div[2]/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>13d79339-c9ef-4956-8cbc-da3a65372383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TransactionSummary---row---1zHCL</value>
+      <webElementGuid>d440e2cc-e7e8-4249-941f-69348c8e64e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transfer Tocimb7054180442RM 1.00Add to Favourite</value>
+      <webElementGuid>39866e06-512c-4361-bb20-3a6229f8f7bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[@class=&quot;Transactions---container---3sqaa&quot;]/div[@class=&quot;Transactions---content---2P7lC&quot;]/div[@class=&quot;Transactions---withSide---2taIP container-fluid Transactions---summaryContainer---1rNvj undefined&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[2]/div[@class=&quot;row TransactionSummary---container---3kmr0&quot;]/div[@class=&quot;col-xs-12 col-md-8&quot;]/div[2]/div[1]/div[@class=&quot;TransactionSummary---confirmed---3HazR panel panel-default&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;TransactionSummary---row---1zHCL&quot;]</value>
+      <webElementGuid>b2b1e684-70fa-4e7a-a873-36d652e29a04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[2]/div/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>55d62940-63e7-4a9e-aa1d-8c02147b9d8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RM 24,996.95'])[1]/following::div[5]</value>
+      <webElementGuid>c92355e0-3c7c-4c5d-8cb9-19b6e8972ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>1810e9f7-f25a-4ecd-b1f3-d7eca2fb7e0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Transfer Tocimb7054180442RM 1.00Add to Favourite' or . = 'Transfer Tocimb7054180442RM 1.00Add to Favourite')]</value>
+      <webElementGuid>8f93e5df-c765-4532-a60f-600fb595f62c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

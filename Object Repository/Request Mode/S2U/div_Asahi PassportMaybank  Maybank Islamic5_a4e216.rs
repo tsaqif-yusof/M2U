@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Asahi PassportMaybank  Maybank Islamic5_a4e216</name>
+   <tag></tag>
+   <elementGuidId>d5fe09ef-2289-44d1-9435-bae5c0246068</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-8.col-sm-10 > div.row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>458e295b-3460-4c29-afa4-22ee6f5c0a07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>2d28434a-e662-4c76-8d51-c5177d47c963</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Asahi PassportMaybank / Maybank Islamic514013127536</value>
+      <webElementGuid>2d622443-f1f4-440c-ba05-2f7297439052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[@class=&quot;Transactions---container---3sqaa&quot;]/div[1]/div[@class=&quot;Transactions---withSide---2taIP container-fluid Transactions---summaryContainer---1rNvj&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[2]/div[@class=&quot;row RecipientContainer---favoriteContainer---28c3Q RecipientContainer---withRecipients---21EA2 RecipientContainer---withTransferNote---10uXa&quot;]/div[@class=&quot;RecipientContainer---fixContainer---2RqLg&quot;]/div[@class=&quot;col-xs-12 col-lg-8 col-md-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-10 col-xs-12 RecipientContainer---favHolder---3JR4L&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 Recipient---container---1WYtT&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-8 col-sm-10&quot;]/div[@class=&quot;row&quot;]</value>
+      <webElementGuid>0fa2602f-3e32-45e3-b35d-0dde05748f0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>038da1a4-c687-41cf-a446-b6d1799356d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Favourite'])[1]/following::div[9]</value>
+      <webElementGuid>a484d5be-30ed-4eea-a406-bdac419f17f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Favourites'])[1]/following::div[11]</value>
+      <webElementGuid>496f3323-af11-41ed-92fc-7c95ae772414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>4344180f-8854-4d4c-a5fd-72f8ef9d6904</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Asahi PassportMaybank / Maybank Islamic514013127536' or . = 'Asahi PassportMaybank / Maybank Islamic514013127536')]</value>
+      <webElementGuid>01a039cd-d354-42e7-95a4-0d69bf38d110</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

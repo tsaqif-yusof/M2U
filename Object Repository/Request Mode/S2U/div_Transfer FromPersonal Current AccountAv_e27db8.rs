@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Transfer FromPersonal Current AccountAv_e27db8</name>
+   <tag></tag>
+   <elementGuidId>23e9bc4a-729e-44c7-8ff3-e41dcc86ec94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.TransactionSummary---container---3kmr0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>30231c7e-e780-46b0-9dae-ba331713c99e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row TransactionSummary---container---3kmr0</value>
+      <webElementGuid>3c7a8af9-72c0-4924-81a8-32c7fa9ec7bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transfer FromPersonal Current AccountAvailable Balance  RM 25,001.00Transfer ToASAHI514013127536RM 0.01Recipient's bankMaybank / Maybank IslamicEffective dateToday 29 Jul 2024Recipient ReferencetestingTotal AmountRM 0.01</value>
+      <webElementGuid>d9bd14b4-9662-43fa-a726-9b81743cdacb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[@class=&quot;Transactions---container---3sqaa&quot;]/div[@class=&quot;Transactions---content---2P7lC&quot;]/div[@class=&quot;Transactions---withSide---2taIP container-fluid Transactions---summaryContainer---1rNvj undefined&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[2]/div[@class=&quot;row TransactionSummary---container---3kmr0&quot;]</value>
+      <webElementGuid>65585bac-ccd1-4833-adb5-0da6f483fcea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[2]/div</value>
+      <webElementGuid>25119b54-2ca8-4f7e-99a2-6ffc37090a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AUTO BILLING'])[1]/following::div[7]</value>
+      <webElementGuid>37c87a24-0ea9-4962-a2bf-c94661c1c714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REQUEST'])[1]/following::div[10]</value>
+      <webElementGuid>20643578-8952-461b-85ee-107d4109a032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div</value>
+      <webElementGuid>f1b38992-f25a-4f98-a8d8-31240c1a1721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Transfer FromPersonal Current AccountAvailable Balance  RM 25,001.00Transfer ToASAHI514013127536RM 0.01Recipient&quot; , &quot;'&quot; , &quot;s bankMaybank / Maybank IslamicEffective dateToday 29 Jul 2024Recipient ReferencetestingTotal AmountRM 0.01&quot;) or . = concat(&quot;Transfer FromPersonal Current AccountAvailable Balance  RM 25,001.00Transfer ToASAHI514013127536RM 0.01Recipient&quot; , &quot;'&quot; , &quot;s bankMaybank / Maybank IslamicEffective dateToday 29 Jul 2024Recipient ReferencetestingTotal AmountRM 0.01&quot;))]</value>
+      <webElementGuid>e7f20cb1-ee68-4e2c-90dd-9af21f42f967</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
