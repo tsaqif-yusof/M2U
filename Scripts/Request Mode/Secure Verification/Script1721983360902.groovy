@@ -17,3 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+
+WebUI.click(findTestObject('Object Repository/Request Mode/S2U/button_TRANSFER'))
+
+WebUI.click(findTestObject('Object Repository/Request Mode/S2U/button_REQUEST'))
+
+WebUI.delay(10)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Request Mode/S2U/span_Transaction Successful'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Request Mode/S2U/a_SAVE RECEIPT'), 0)
+
+WebUI.delay(3)
+
+
