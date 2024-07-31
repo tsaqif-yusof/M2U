@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_JAPAN</name>
+   <tag></tag>
+   <elementGuidId>94e5ffe2-32f5-4963-a6dc-dabb60311819</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.RenderSearchableDropdown---withLinBreak---1iu7K > div > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollToTransactions']/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div/ul/li/a/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4f3af3a2-4856-403c-b3b5-2f90a7cb259a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JAPAN</value>
+      <webElementGuid>26cfb24c-e3f8-41d4-b510-b6fd567c8ce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[1]/div[@class=&quot;GeneralModal---container---1MI-M undefined&quot;]/div[@class=&quot;GeneralModal---modal---2RPFr TransferModal---container---2JZnN TransferModal---withNote---23xqo&quot;]/div[@class=&quot;modal-dialog GeneralModal---animated---2vfJQ GeneralModal---slideInDown---3of__&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;undefined modal-body&quot;]/div[@class=&quot;TransferModal---whitebg---c-ZSZ&quot;]/div[@class=&quot;TransferModal---recipientWrapper---1B7n3&quot;]/div[1]/div[@class=&quot;row TransferModal---inputPair---2v4pK&quot;]/div[@class=&quot;col-sm-7&quot;]/div[@class=&quot;RenderSearchableDropdown---container---1MNpu TransferModal---containerClass---3Gy8x&quot;]/div[@class=&quot;RenderSearchableDropdown---dropdownHolder---3G3aH&quot;]/div[@class=&quot;clearfix&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[1]/a[@class=&quot;RenderSearchableDropdown---withLinBreak---1iu7K&quot;]/div[1]/div[1]</value>
+      <webElementGuid>e8b39e54-a9c1-4dbf-a9c9-78b7ba20445a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollToTransactions']/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div/ul/li/a/div/div</value>
+      <webElementGuid>923a07f7-370c-46e7-8bda-bc8b0ec0025d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/following::div[6]</value>
+      <webElementGuid>d970b314-79d9-4f81-9f39-79d2fe12c4fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer via DuitNow'])[1]/following::div[12]</value>
+      <webElementGuid>fb439eb2-5328-4291-8200-e53349d7a506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passport Number'])[1]/preceding::div[1]</value>
+      <webElementGuid>8e260d19-d055-4347-8623-fca069cd6a9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div</value>
+      <webElementGuid>e7109c03-a75f-4975-bbcd-6d5919713d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'JAPAN' or . = 'JAPAN')]</value>
+      <webElementGuid>693cb133-965b-43c6-aac4-07dfe3f21443</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Transfer ToTSAQIF YUSOF017304RM 0.05Add_24239c</name>
+   <tag></tag>
+   <elementGuidId>1062afc3-7184-4302-937d-c64b4179a391</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.TransactionSummary---confirmed---3HazR.panel.panel-default > div.panel-body > div.TransactionSummary---row---1zHCL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[2]/div/div[2]/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e475c7e5-8407-42c3-b8e2-49238c6ab8cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TransactionSummary---row---1zHCL</value>
+      <webElementGuid>6aeb9236-ab9a-48e9-a750-cd43ed0e73e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transfer ToTSAQIF YUSOF017304****RM 0.05Add to Favourite</value>
+      <webElementGuid>22f33dd6-41e9-408a-8fb6-b4ee8c8ccbea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[@class=&quot;Transactions---container---3sqaa&quot;]/div[@class=&quot;Transactions---content---2P7lC&quot;]/div[@class=&quot;Transactions---withSide---2taIP container-fluid Transactions---summaryContainer---1rNvj undefined&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[2]/div[@class=&quot;row TransactionSummary---container---3kmr0&quot;]/div[@class=&quot;col-xs-12 col-md-8&quot;]/div[2]/div[1]/div[@class=&quot;TransactionSummary---confirmed---3HazR panel panel-default&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;TransactionSummary---row---1zHCL&quot;]</value>
+      <webElementGuid>ef864da4-191e-42a6-a11d-dc47282e610d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[2]/div/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>87d715f4-ed11-42e3-b603-94fd611ebacb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RM 24,988.20'])[1]/following::div[5]</value>
+      <webElementGuid>2453fb66-a48a-4d36-a4a5-7e43cb882141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>3d566e42-d7c2-4df4-8677-4aa4fd4ff7af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Transfer ToTSAQIF YUSOF017304****RM 0.05Add to Favourite' or . = 'Transfer ToTSAQIF YUSOF017304****RM 0.05Add to Favourite')]</value>
+      <webElementGuid>50f33bad-084a-49ed-80cf-863bfea4eb5c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

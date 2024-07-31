@@ -60,7 +60,4 @@ WebUI.takeScreenshot()
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/IBFT/Page_Maybank2u  Maybank Malaysia/button_Done'))
-
-WebUI.delay(2)
 

@@ -59,7 +59,7 @@ WebUI.takeScreenshot()
 
 WebUI.delay(10)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Request Mode/S2U/span_Transaction Successful'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/IBG/Page_Maybank2u  Maybank Malaysia/span_Transaction Accepted'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Request Mode/S2U/a_SAVE RECEIPT'), 0)
 

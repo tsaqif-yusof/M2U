@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Duitnow Passport</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>33c9c00b-3c21-42df-8b3e-01496c0ed9c5</testCaseGuid>
+</TestCaseEntity>

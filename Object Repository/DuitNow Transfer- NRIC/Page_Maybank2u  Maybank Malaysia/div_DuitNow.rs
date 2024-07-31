@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DuitNow</name>
+   <tag></tag>
+   <elementGuidId>2096d731-774c-4016-9f4f-089d097ead96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown.open.btn-group > ul.dropdown-menu > li:nth-of-type(2) > a > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[2]/div/div/div/div[2]/div[2]/div[3]/div/div/ul/li[2]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9c899f0b-3361-4022-9723-6f62fb5fa1ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DuitNow </value>
+      <webElementGuid>6cb65235-fbed-4ea0-a21f-ccbae25dcec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[@class=&quot;Transactions---container---3sqaa&quot;]/div[1]/div[@class=&quot;Transactions---withSide---2taIP container-fluid Transactions---summaryContainer---1rNvj&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[2]/div[@class=&quot;Transactions---backgroundTile---JsrKN&quot;]/div[@class=&quot;Transactions---paddingContent---2JL3p&quot;]/div[@class=&quot;row PayFromToContainer---payFromToContainer---1zc5G&quot;]/div[@class=&quot;col-xs-12 col-lg-8 col-md-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;hidden-xs col-sm-10 col-xs-12 PayFromToContainer---dropdownHolder---1fWw2&quot;]/div[@class=&quot;RenderDesktopDropdown---container---1CES2 PayFromToContainer---containerClass---G39LL&quot;]/div[@class=&quot;dropdown open btn-group&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[2]/a[1]/div[1]</value>
+      <webElementGuid>8e5c1034-b9bc-40ad-9b22-b4e495f3fe23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[2]/div/div/div/div[2]/div[2]/div[3]/div/div/ul/li[2]/a/div</value>
+      <webElementGuid>c44ee047-36ae-4ca4-aa05-ab42706b318b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Own Accounts'])[4]/following::div[1]</value>
+      <webElementGuid>e445f75c-9f38-47ee-beeb-faa193c91a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Own Accounts'])[3]/following::div[2]</value>
+      <webElementGuid>1ca15588-93ff-4d0a-a878-88dc821c0c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/ul/li[2]/a/div</value>
+      <webElementGuid>97b06068-60d2-41aa-bfd4-714dd6838257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DuitNow ' or . = 'DuitNow ')]</value>
+      <webElementGuid>21b99fbc-f4ed-42cb-bec9-d3c0c03153e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

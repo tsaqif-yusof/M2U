@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DuitNow</name>
+   <tag></tag>
+   <elementGuidId>ff5c2b4a-8691-492e-84b1-f034a0781e5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > a > div > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[2]/div/div/div/div[2]/div[2]/div[3]/div/div/ul/li[2]/a/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9dc69b6b-d4ef-437f-b360-b00f5cfa651d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DuitNow </value>
+      <webElementGuid>4cd00362-f1d1-4b49-abdc-f9d7c00be176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[@class=&quot;Transactions---container---3sqaa&quot;]/div[1]/div[@class=&quot;Transactions---withSide---2taIP container-fluid Transactions---summaryContainer---1rNvj&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[2]/div[@class=&quot;Transactions---backgroundTile---JsrKN&quot;]/div[@class=&quot;Transactions---paddingContent---2JL3p&quot;]/div[@class=&quot;row PayFromToContainer---payFromToContainer---1zc5G&quot;]/div[@class=&quot;col-xs-12 col-lg-8 col-md-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;hidden-xs col-sm-10 col-xs-12 PayFromToContainer---dropdownHolder---1fWw2&quot;]/div[@class=&quot;RenderDesktopDropdown---container---1CES2 PayFromToContainer---containerClass---G39LL&quot;]/div[@class=&quot;dropdown open btn-group&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[2]/a[1]/div[1]/span[1]</value>
+      <webElementGuid>03a5f0ad-7476-49b8-92c9-e43cec8a1dfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[2]/div/div/div/div[2]/div[2]/div[3]/div/div/ul/li[2]/a/div/span</value>
+      <webElementGuid>5fb549ad-13a5-46ee-8773-6745b8d1a313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Own Accounts'])[4]/following::span[1]</value>
+      <webElementGuid>c0a5aed1-75c1-4f8c-a53b-9eb5da4376e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Own Accounts'])[3]/following::span[2]</value>
+      <webElementGuid>605c5ab3-5f2a-41a1-8361-493b1013b31c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='( Maybank and other banks )'])[2]/preceding::span[1]</value>
+      <webElementGuid>94fefd7f-3bec-478d-8fb0-8428b1e1ad6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/div/span</value>
+      <webElementGuid>5bb9e98a-30dc-4820-be42-f18a44352541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'DuitNow ' or . = 'DuitNow ')]</value>
+      <webElementGuid>22b55d19-3f7c-484c-a2e1-9adde2c00c8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

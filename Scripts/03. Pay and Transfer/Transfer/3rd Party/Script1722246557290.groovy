@@ -30,11 +30,6 @@ WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank 
 
 WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/span_Other Accounts ( Maybank and other banks )'))
 
-'Bank Islam'
-//WebUI.setText(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/input_ASNB Accounts_PayFromToContainer---pa_1bae3d'), 'bank islam')
-//WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/div_BANK ISLAM MALAYSIA'))
-//WebUI.click(findTestObject('Object Repository/3rd Party/Page_Maybank2u  Maybank Malaysia/span_Transfer To BANK ISLAM MALAYSIA_TransferModal---close---1-8Bs'))
-
 WebUI.delay(2)
 
 'Maybank'
