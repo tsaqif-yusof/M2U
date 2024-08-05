@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Own Accounts</name>
+   <tag></tag>
+   <elementGuidId>f7b007c2-7f20-42a5-b5d2-e2cb8e7bae93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#payto_dropdown > span.RenderDesktopDropdown---clsTitle---1A7S9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='payto_dropdown']/span)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3867ebce-fcbb-4cf5-b776-326093b0d1c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>RenderDesktopDropdown---clsTitle---1A7S9</value>
+      <webElementGuid>3662073e-b2aa-457c-8fb1-d1c49ce9f1a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Own Accounts </value>
+      <webElementGuid>35372941-fcb6-4dcd-bfca-972e76d6fc5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[@class=&quot;Transactions---container---1wLDZ&quot;]/div[1]/div[@class=&quot;Transactions---withSide---8AF6d container-fluid Transactions---summaryContainer---2cBfk&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[2]/div[@class=&quot;Transactions---backgroundTile---1MSOI&quot;]/div[@class=&quot;Transactions---paddingContent---15RoA&quot;]/div[@class=&quot;row PayFromToContainer---payFromToContainer---1HhaN&quot;]/div[@class=&quot;col-xs-12 col-lg-8 col-md-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;hidden-xs col-sm-10 col-xs-12 PayFromToContainer---dropdownHolder---2tkrl&quot;]/div[@class=&quot;RenderDesktopDropdown---container---26t5v PayFromToContainer---containerClass---m7dvC&quot;]/div[@class=&quot;dropdown btn-group&quot;]/button[@id=&quot;payto_dropdown&quot;]/span[@class=&quot;RenderDesktopDropdown---clsTitle---1A7S9&quot;]</value>
+      <webElementGuid>cbf2ff4b-018b-42d1-a2bb-59ce2fb840ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//button[@id='payto_dropdown']/span)[2]</value>
+      <webElementGuid>a3a4507a-5eb7-4657-8fc8-ad307c58bc4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ASNB Accounts'])[1]/following::span[1]</value>
+      <webElementGuid>e4af8e4e-bc1d-4db7-8c1f-9ef93c36b24a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Number'])[1]/following::span[3]</value>
+      <webElementGuid>0f36b2a4-f84e-4549-9808-564e47a63e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Own Accounts'])[4]/preceding::span[2]</value>
+      <webElementGuid>1a9295a8-977e-403d-b478-9e146672c0e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/button/span</value>
+      <webElementGuid>a62506d0-0902-4208-a0f9-0f261f97c10d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Own Accounts ' or . = 'Own Accounts ')]</value>
+      <webElementGuid>f8e7ecb3-f593-49d2-a339-a48940f2174f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

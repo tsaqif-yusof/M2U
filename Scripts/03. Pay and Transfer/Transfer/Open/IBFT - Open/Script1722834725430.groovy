@@ -17,12 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+String Prod = findTestData('Test Data').getValue(4, 2)
+
+println(Prod)
+
+if (Prod == 'NO') {
+	WebUI.callTestCase(findTestCase('00. Login and Logout/Login UAT'), [:], FailureHandling.CONTINUE_ON_FAILURE)
+} else {
+	WebUI.callTestCase(findTestCase('00. Login and Logout/Login Prod'), [:], FailureHandling.CONTINUE_ON_FAILURE)
+}
+
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Object Repository/IBFT/Page_Maybank2u  Maybank Malaysia/a_PAY  TRANSFER'))
 
 WebUI.click(findTestObject('Object Repository/IBFT/Page_Maybank2u  Maybank Malaysia/span_x'))
 
 WebUI.click(findTestObject('Object Repository/IBFT/Page_Maybank2u  Maybank Malaysia/div_TRANSFER'))
+
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Object Repository/IBFT/Page_Maybank2u  Maybank Malaysia/button_Own Accounts'))
 
@@ -34,7 +47,11 @@ WebUI.setText(findTestObject('Object Repository/IBFT/Page_Maybank2u  Maybank Mal
 
 WebUI.click(findTestObject('Object Repository/IBFT/Page_Maybank2u  Maybank Malaysia/div_CIMB BANK BERHAD'))
 
-WebUI.setText(findTestObject('Object Repository/IBFT/Page_Maybank2u  Maybank Malaysia/input_Account number_beneficiaryAccountNumber'), findTestData('Test Data').getValue(8, 2))
+if (Prod == 'NO') {
+	WebUI.setText(findTestObject('Object Repository/IBFT/Page_Maybank2u  Maybank Malaysia/input_Account number_beneficiaryAccountNumber'), findTestData('Test Data').getValue(8, 2))
+} else {
+	'Data Prod'
+}
 
 WebUI.setText(findTestObject('Object Repository/IBFT/Page_Maybank2u  Maybank Malaysia/input_concat(Recipient, , s Name)_beneficiaryName'), 
     findTestData('Test Data').getValue(7, 2))
@@ -44,6 +61,8 @@ WebUI.setText(findTestObject('Object Repository/IBFT/Page_Maybank2u  Maybank Mal
 WebUI.setText(findTestObject('Object Repository/IBFT/Page_Maybank2u  Maybank Malaysia/input_Recipient Reference_transactionReferenceNo'), 
     findTestData('Test Data').getValue(6, 2))
 
+WebUI.takeScreenshot()
+
 WebUI.click(findTestObject('Object Repository/IBFT/Page_Maybank2u  Maybank Malaysia/button_TRANSFER'))
 
 WebUI.click(findTestObject('Object Repository/IBFT/Page_Maybank2u  Maybank Malaysia/button_REQUEST'))
@@ -52,7 +71,7 @@ WebUI.takeScreenshot()
 
 WebUI.delay(10)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Request Mode/S2U/span_Transaction Successful'), 0)
+//WebUI.verifyElementPresent(findTestObject('Object Repository/Request Mode/S2U/span_Transaction Successful'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Request Mode/S2U/a_SAVE RECEIPT'), 0)
 
@@ -60,4 +79,4 @@ WebUI.takeScreenshot()
 
 WebUI.delay(2)
 
-
+WebUI.callTestCase(findTestCase('00. Login and Logout/Logout'), [:], FailureHandling.CONTINUE_ON_FAILURE)

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DuitNow Transfer - MBO - Fav</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3ce08c1a-ec22-41bb-819d-8464ae48fbd4</testCaseGuid>
+</TestCaseEntity>

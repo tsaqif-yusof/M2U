@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.pull-right.TransferModal---pay-btn---1f-7i.btn.btn-default</value>
+         <value>button.btn.pull-right.TransferModal---pay-btn---2LrgH.btn.btn-default</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[5]</value>
+         <value>(//button[@type='button'])[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f6890d93-87a2-4fc2-83e1-9d344f56ad3e</webElementGuid>
+      <webElementGuid>806c0589-d026-40f2-826f-fa8b62eaa276</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,15 +31,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f0db46b7-a402-4562-bb42-bb1d421e544c</webElementGuid>
+      <webElementGuid>3278886a-c843-4d53-8db7-60e0beeb38e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn pull-right TransferModal---pay-btn---1f-7i btn btn-default</value>
-      <webElementGuid>e295bdef-bd79-4395-8ab2-1522dece221a</webElementGuid>
+      <value>btn pull-right TransferModal---pay-btn---2LrgH btn btn-default</value>
+      <webElementGuid>8ead5eb0-2ede-4c58-87a1-d50273a61945</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,23 +47,23 @@
       <name>text</name>
       <type>Main</type>
       <value>TRANSFER </value>
-      <webElementGuid>c16657e6-d763-4e61-a956-5c7697815fef</webElementGuid>
+      <webElementGuid>f99b2d03-aa35-4526-a586-a8f14d7380b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;scrollToTransactions&quot;)/div[1]/div[@class=&quot;GeneralModal---container---1MI-M undefined&quot;]/div[@class=&quot;GeneralModal---modal---2RPFr TransferModal---container---2JZnN TransferModal---withNote---23xqo&quot;]/div[@class=&quot;modal-dialog GeneralModal---animated---2vfJQ GeneralModal---slideInDown---3of__&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;undefined modal-body&quot;]/div[@class=&quot;TransferModal---whitebg---c-ZSZ&quot;]/div[@class=&quot;row TransferModal---inputPair---2v4pK&quot;]/div[@class=&quot;col-sm-4 col-xs-12&quot;]/button[@class=&quot;btn pull-right TransferModal---pay-btn---1f-7i btn btn-default&quot;]</value>
-      <webElementGuid>f410e107-b55c-48e0-95b8-04b816f5f387</webElementGuid>
+      <value>id(&quot;scrollToTransactions&quot;)/div[1]/div[@class=&quot;GeneralModal---container---2eNZL undefined&quot;]/div[@class=&quot;GeneralModal---modal---3S0wp TransferModal---container---30sqf TransferModal---withNote---RCB-A&quot;]/div[@class=&quot;modal-dialog GeneralModal---animated---3rWCl GeneralModal---slideInDown---QgFoz&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;undefined modal-body&quot;]/div[@class=&quot;TransferModal---whitebg---3wCdG&quot;]/div[@class=&quot;row TransferModal---inputPair---1VxR1&quot;]/div[@class=&quot;col-sm-4&quot;]/button[@class=&quot;btn pull-right TransferModal---pay-btn---2LrgH btn btn-default&quot;]</value>
+      <webElementGuid>59bb9f77-b383-442c-9027-0d92fccb6a3f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[5]</value>
-      <webElementGuid>98fc8d31-a426-47bc-a4ad-ad2008b2924a</webElementGuid>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>23d93ac8-019f-4a94-86aa-736842f4f76c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,55 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='scrollToTransactions']/div/div/div/div/div/div[2]/div/div[7]/div[2]/button</value>
-      <webElementGuid>c57e0dc0-e4e6-4d42-8546-5bf139b7926a</webElementGuid>
+      <webElementGuid>178b53f1-aa08-4a29-8692-bb782c10cfc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD / EDIT ANOTHER TRANSFER'])[1]/following::button[1]</value>
+      <webElementGuid>60b31a4c-7380-4afc-90b6-ceaebaa3e008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notify Via Email'])[1]/following::button[2]</value>
+      <webElementGuid>b82387a2-5d50-451b-9272-cfa944105b66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MY ACCOUNTS'])[1]/preceding::button[2]</value>
+      <webElementGuid>14b0fd07-c890-4c01-bc08-075b5ebdf227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>271fe7f4-d88d-4a94-b6f6-d5bb7b6f8df3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'TRANSFER ' or . = 'TRANSFER ')]</value>
+      <webElementGuid>ed20b091-6669-42e2-a292-e1438f8ceb7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>98fc8d31-a426-47bc-a4ad-ad2008b2924a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,29 +136,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Other Transfer Details'])[1]/following::button[1]</value>
       <webElementGuid>076d7e9e-615a-4a72-93f7-cb5396993dca</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='MY ACCOUNTS'])[1]/preceding::button[2]</value>
-      <webElementGuid>e97f5a82-b9e7-4325-8300-7c347b6e57cd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>10bd3b6f-a54b-4743-8814-8a1f35431476</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'TRANSFER ' or . = 'TRANSFER ')]</value>
-      <webElementGuid>601964b3-d9cb-45bc-87b9-afc11c37b49e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

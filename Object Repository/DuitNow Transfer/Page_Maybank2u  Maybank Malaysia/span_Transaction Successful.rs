@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9f41cce0-cea3-4a09-a610-a53a9d7c6929</webElementGuid>
+      <webElementGuid>0866697a-6413-4c97-8e36-03076db5596f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Transaction Successful!</value>
-      <webElementGuid>9c8b1229-d5c7-4e38-861c-4350ea231fe1</webElementGuid>
+      <webElementGuid>7459c337-a5d1-4011-abcb-210da2f4a236</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;scrollToTransactions&quot;)/div[@class=&quot;Transactions---container---3sqaa&quot;]/div[@class=&quot;Transactions---content---2P7lC&quot;]/div[@class=&quot;Transactions---withSide---2taIP container-fluid Transactions---summaryContainer---1rNvj undefined&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;Transactions---stickyConfirmation---2aISx&quot;]/div[1]/div[1]/div[@class=&quot;SaveReceiptNewPayment---saveWrapper---3Q7bZ put-in-modal SaveReceiptNewPayment---slide---2j_l8&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-xs-12&quot;]/div[@class=&quot;SaveReceiptNewPayment---save-right-wrapper---2KHN9&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-xs-12&quot;]/div[@class=&quot;SaveReceiptNewPayment---save-heading-wrapper-dashboard---2NF4n&quot;]/div[1]/h6[1]/span[1]</value>
-      <webElementGuid>de60c848-6bc1-4891-8748-5d9293eb5450</webElementGuid>
+      <webElementGuid>1aaa641c-9268-4fb7-a2ca-9669b9bd191f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,55 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[3]/div/div/div/div/div/div[2]/div/div/div/div/div/h6/span</value>
-      <webElementGuid>5604d9e8-d793-4f4a-8bf7-c88cdeab41b4</webElementGuid>
+      <webElementGuid>8432846a-79b0-4a01-8bff-4eb18c38d931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed on Thursday 01 August 2024 at 12:16:25'])[1]/following::span[1]</value>
+      <webElementGuid>20d077ef-44ec-4ffd-b21b-9181c6f033a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RM 0.01'])[2]/following::span[1]</value>
+      <webElementGuid>0ffce135-c50f-46f2-b69b-6a3aeda5922b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Transfer'])[1]/preceding::span[2]</value>
+      <webElementGuid>853ec3e5-5c88-449b-8238-a39b4ba22309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transaction Successful!']/parent::*</value>
+      <webElementGuid>47489494-95ec-47b7-87e3-b99de683985b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6/span</value>
+      <webElementGuid>157a37d7-2e09-4f17-be88-8a3010ad2825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Transaction Successful!' or . = 'Transaction Successful!')]</value>
+      <webElementGuid>0c33f2d0-429f-485b-83ff-4422de1f7416</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,37 +112,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='RM 0.05'])[2]/following::span[1]</value>
       <webElementGuid>c73a29db-28be-4557-be50-c2e63ff1dcf1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Transfer'])[1]/preceding::span[2]</value>
-      <webElementGuid>d75f57f2-218b-49a0-bd1c-bfa2f1cc21d7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Transaction Successful!']/parent::*</value>
-      <webElementGuid>7ec745de-6c27-43db-b962-35479ef4d8bc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//h6/span</value>
-      <webElementGuid>2097c79a-b60d-4382-b92d-e35eb05a6369</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'Transaction Successful!' or . = 'Transaction Successful!')]</value>
-      <webElementGuid>2a77da39-740d-4bf6-9ed5-061550acce2a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

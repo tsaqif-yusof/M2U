@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DuitNow Transfer - NRIC - Open</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ec674246-4959-4a7b-9336-8f39b52a8b12</testCaseGuid>
+</TestCaseEntity>

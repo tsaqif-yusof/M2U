@@ -25,6 +25,8 @@ WebUI.navigateToUrl(findTestData('Test Data').getValue(3, 1))
 
 WebUI.maximizeWindow()
 
+WebUI.takeScreenshot()
+
 WebUI.setText(findTestObject('Object Repository/Page_Maybank2u  Maybank Malaysia/input_Humanising Financial Services_username'),findTestData('Test Data').getValue(1, 1))
 
 WebUI.click(findTestObject('Object Repository/Page_Maybank2u  Maybank Malaysia/button_LOGIN_1'))
